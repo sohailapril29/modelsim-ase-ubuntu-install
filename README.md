@@ -1,11 +1,6 @@
 
 #  ModelSim ASE Installation on Ubuntu (64-bit)
 
-ModelSim ASE (**Altera Starter Edition**) is the free version of the **ModelSim HDL simulator**, widely used for **VHDL, Verilog, and SystemVerilog** simulation in **FPGA and VLSI design**.  
-
-Since ModelSim ASE is a **32-bit application**, you need to enable 32-bit architecture and install compatibility libraries when running on **64-bit Ubuntu (20.04 / 22.04 / 24.04)**.  
-
-This guide provides a **step-by-step installation process** and **fixes for common errors**.
 
 ---
 
